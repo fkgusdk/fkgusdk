@@ -1,6 +1,6 @@
-## 안녕하세요! 👋
+## HI! 👋
 
-저는 **yourusername**입니다.
+I'm **RA HYUNA**
 
 ### 🔧 스킬
 - **프로그래밍 언어**: Python, JavaScript, Java, C++
@@ -12,11 +12,11 @@
 - [프로젝트 이름](프로젝트 링크) - 프로젝트 설명
 
 ### 📈 통계
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fkgusdk&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fkgusdk&layout=compact&theme=radical)
 
 ### 📫 연락처
-- **이메일**: your-email@example.com
+- **이메일**: rhahyeona@kakao.com
 - **링크드인**: [LinkedIn 프로필](https://www.linkedin.com/in/yourusername)
 
 ---
