@@ -6,7 +6,7 @@ I'm **RA HYUNA**
 - **E-Mail**: rhahyeona@kakao.com
 - **LinkedIn**: [LinkedIn 프로필](https://www.linkedin.com/in/%ED%98%84%EC%95%84-%EB%9D%BC-57317b246/)
 
-### 🎨 Interest
+### 💫 Interest
 - **BlockChain**
 - **AI**
 - **Federated Learning**
@@ -14,7 +14,7 @@ I'm **RA HYUNA**
 - **Web3.0**
 
 ### 🔧 Skills
-- **Programming Language**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=java&logoColor=yellow), ![C++](https://img.shields.io/badge/C++-F7DF1E?style=flat&logo=c++&logoColor=pink)
+- **Programming Language**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=Java&logoColor=yellow), ![C++](https://img.shields.io/badge/C++-F7DF1E?style=flat&logo=C++&logoColor=pink)
 - **Web**: HTML, CSS, React, Flask, Django, Node.js, Spring Boot, React Native
 - **Database**: MySQL, MongoDB
 - **Tools**: Git, Git action Docker, Kubernetes
