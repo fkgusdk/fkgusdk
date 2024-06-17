@@ -2,22 +2,19 @@
 
 I'm **RA HYUNA**
 
-### 🔧 스킬
-- **프로그래밍 언어**: Python, JavaScript, Java, C++
-- **웹 개발**: HTML, CSS, React, Node.js
-- **데이터베이스**: MySQL, MongoDB
-- **도구**: Git, Docker, Kubernetes
+### 📫 연락처
+- **E-Mail**: rhahyeona@kakao.com
+- **LinkedIn**: [LinkedIn 프로필](https://www.linkedin.com/in/%ED%98%84%EC%95%84-%EB%9D%BC-57317b246/)
 
-### 💼 현재 프로젝트
-- [프로젝트 이름](프로젝트 링크) - 프로젝트 설명
+### 🔧 Skills
+- **Programming Language**: Python, JavaScript, Java, C++
+- **Web**: HTML, CSS, React, Flask, Django, Node.js, Spring Boot, React Native
+- **Database**: MySQL, MongoDB
+- **Tools**: Git, Git action Docker, Kubernetes
 
 ### 📈 통계
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fkgusdk&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fkgusdk&layout=compact&theme=radical)
-
-### 📫 연락처
-- **이메일**: rhahyeona@kakao.com
-- **링크드인**: [LinkedIn 프로필](https://www.linkedin.com/in/yourusername)
 
 ---
 
@@ -30,6 +27,3 @@ I'm **RA HYUNA**
 
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=fkgusdk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 💻 기여도 그래프
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fkgusdk&theme=dracula)
