@@ -29,7 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fkgusdk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 💻 기여도 그래프
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fkgusdk&theme=dracula)
