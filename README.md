@@ -1,6 +1,4 @@
-## HI! 👋
-
-I'm **RA HYUNA**
+## HI! I'm **RA HYUNA**👋
 
 ### 📫 연락처
 - **E-Mail**: rhahyeona@kakao.com
