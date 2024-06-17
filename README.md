@@ -2,11 +2,11 @@
 
 ### 📫 연락처
 - **E-Mail**: rhahyeona@kakao.com
-- **LinkedIn**: [LinkedIn 프로필](https://www.linkedin.com/in/%ED%98%84%EC%95%84-%EB%9D%BC-57317b246/)
+- **LinkedIn**: [Go to LinkedIn](https://www.linkedin.com/in/%ED%98%84%EC%95%84-%EB%9D%BC-57317b246/)
 
 ### 💫 Interest
 - **BlockChain**
-- **AI**
+- **AI(GNN)**
 - **Federated Learning**
 - **ZKML**
 - **Web3.0**
