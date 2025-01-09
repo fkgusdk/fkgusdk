@@ -5,11 +5,12 @@
 - **LinkedIn**: [Go to LinkedIn](https://www.linkedin.com/in/%ED%98%84%EC%95%84-%EB%9D%BC-57317b246/)
 
 ### 💫 Interest
-- **BlockChain**
-- **AI(GNN)**
-- **Federated Learning**
-- **ZKML**
-- **Web3.0**
+1. **Data Engineering**
+2. **Cloud Engineering**
+3. **AI(especially, GNN)**
+4. **Data Analytics**
+5. **ZKML / BlockChain / Web3.0**
+6. **Federated Learning**
 
 ### 🔧 Skills
 - **Programming Language**: Python, JavaScript, Java, C++
