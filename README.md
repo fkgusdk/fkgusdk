@@ -19,9 +19,9 @@
 - **Tools**: Git, Git action, Docker, Slack, Notion
 
 ### 👩‍💻 Projects
-⭐ : 담당 파트
+⭐: 담당 파트
 #### KeyLoud (https://github.com/Playdata-LastProject/KeyLoud)
-**Node.js, GCP. MongoDB, Git Action, Docker 이용**
+**Node.js, GCP, MongoDB, Git Action, Docker 이용**
 
 사용자가 업로드한 음성파일을 관리할 수 있는 시스템으로, 음성 파일의 제목이 아닌 내용을 검색할 수 있는 웹서비스입니다.
 
