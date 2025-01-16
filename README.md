@@ -32,6 +32,7 @@
 
 #### AIND (https://github.com/user-attachments/assets/42a56d80-e095-479b-9fc6](https://github.com/NDGD)
 https://github.com/user-attachments/assets/559b5f89-0cd8-4bae-9b7d-069d292d11d1
+
 **Django, K-means clustering, BootStrap, Kakao API 이용**
 노동공공데이터를 이용한 산재 보험 승인 확률 에측 및 수령 가능 보험료 예측 웹서비스입니다.
 주요 개발 내용은 다음과 같습니다.
