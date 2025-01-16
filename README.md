@@ -22,6 +22,7 @@
 ⭐ : 담당 파트
 #### KeyLoud (https://github.com/Playdata-LastProject/KeyLoud)
 **Node.js, GCP. MongoDB, Git Action, Docker 이용**
+
 사용자가 업로드한 음성파일을 관리할 수 있는 시스템으로, 음성 파일의 제목이 아닌 내용을 검색할 수 있는 웹서비스입니다.
 
 뿐만 아니라 키워드 추출 및 요약 서비스 또한 제공합니다.
@@ -41,6 +42,7 @@
 https://github.com/user-attachments/assets/559b5f89-0cd8-4bae-9b7d-069d292d11d1
 
 **Django, K-means clustering, BootStrap, Kakao API 이용**
+
 노동공공데이터를 이용한 산재 보험 승인 확률 에측 및 수령 가능 보험료 예측 웹서비스입니다.
 
 주요 개발 내용은 다음과 같습니다.
@@ -57,6 +59,7 @@ https://github.com/user-attachments/assets/559b5f89-0cd8-4bae-9b7d-069d292d11d1
 -----------------------------------------------------------------------
 #### Game Changer (https://github.com/SteamGameChanger/GameChanger)
 **Flask, KEY BERT, Transformer, Dynamic Web Crawling**
+
 사용자가 자신이 개발할 인디 게임에 대한 설명을 자연어로 설명하면 예상 별점과 반응, 적절한 가격 등을 레포트 형식으로 제공하는 웹페이지입니다.
 
 주요 개발 내용은 다음과 같습니다.
