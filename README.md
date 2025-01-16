@@ -36,7 +36,7 @@
 
 (3) AWS를 이용한 배포 및 Git action을 이용한 CI/CD 구축 (⭐, 기여도 50%)
 
-
+-----------------------------------------------------------------------
 #### AIND (https://github.com/user-attachments/assets/42a56d80-e095-479b-9fc6](https://github.com/NDGD)
 https://github.com/user-attachments/assets/559b5f89-0cd8-4bae-9b7d-069d292d11d1
 
@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/559b5f89-0cd8-4bae-9b7d-069d292d11d1
 
 (4) 이 외에 산재지정 의료기관 조회 서비스, 재활 기관 조회 서비스, 경험 공유 및 질의 게시판, 서비스 이용 리뷰 게시판 등을 추가로 구현
 
-
+-----------------------------------------------------------------------
 #### Game Changer (https://github.com/SteamGameChanger/GameChanger)
 **Flask, KEY BERT, Transformer, Dynamic Web Crawling**
 사용자가 자신이 개발할 인디 게임에 대한 설명을 자연어로 설명하면 예상 별점과 반응, 적절한 가격 등을 레포트 형식으로 제공하는 웹페이지입니다.
